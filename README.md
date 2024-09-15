@@ -8,6 +8,14 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KoldaN1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KoldaN1&theme=solarized_dark)\
 
+## 🔨 Currently working on...
+
+A text-based MMORPG integrated into Telegram Web App, using pixel graphics and custom sprites. Items, classes, quests, bosses, guilds, crafts, NPCs, locations.  
+
+Core technologies: React + Express with MongoDB (mongoose)
+
+Type: Private Repository
+
 # ❔ Languages
 
 - JavaScript (Node.js) - 10/10
