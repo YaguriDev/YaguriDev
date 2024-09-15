@@ -1,8 +1,39 @@
 ## Welcome.
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoldaN1)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&letterSpacing=&duration=2500&pause=5000&repeat=false&width=500&lines=I'm+Denis%2C+NodeJS+backend+developer.)](https://git.io/typing-svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KoldaN1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KoldaN1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KoldaN1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KoldaN1&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KoldaN1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KoldaN1&theme=solarized_dark)\
+
+# ❔ Languages
+
+- JavaScript (Node.js) - 10/10
+- Python - 7/10
+- Java + Smali - 6/10
+- C# - 5/10
+- C++ - 4/10
+
+## ❔ Frameworks / Libraries 
+
+Frontend:
+- React
+- React Query
+- React Hook Form
+- React Popup
+- React Use Websocket
+  
+Backend:
+- Express.js
+- Mongoose (MongoDB)
+- Express Validator
+- Express WS
+- CryptoJS
+- JWT
+- Moment.js
+- Winston
+- Helmet, Compression, Cors
+- And more...
+
