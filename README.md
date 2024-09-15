@@ -22,7 +22,7 @@ Type: Private Repository
 - Python - 7/10
 - Java + Smali - 6/10
 - C# - 5/10
-- C++ - 4/10
+- C++ - 3/10
 
 ## ❔ Frameworks / Libraries 
 
