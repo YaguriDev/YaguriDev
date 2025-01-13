@@ -18,10 +18,10 @@ Type: Private Repository
 
 # ❔ Languages
 
-- JavaScript (Node.js) - 10/10
-- Python - 7/10
-- Java + Smali - 6/10
-- C# - 5/10
+- JS / TS (Node.js) - 10/10
+- Python - 6/10
+- Java + Smali - 5/10
+- C# - 4/10
 - C++ - 3/10
 
 ## ❔ Frameworks / Libraries 
@@ -32,12 +32,16 @@ Frontend:
 - React Hook Form
 - React Popup
 - React Use Websocket
+- And more...
   
 Backend:
 - Express.js
 - Mongoose (MongoDB)
 - Express Validator
 - Express WS
+- PostgreSQL
+- bull-mq
+- Redis
 - CryptoJS
 - JWT
 - Moment.js
