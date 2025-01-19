@@ -20,8 +20,8 @@ Type: Private Repository
 
 - JS / TS (Node.js) - 10/10
 - Python - 6/10
-- Java + Smali - 5/10
-- C# - 4/10
+- Java + Smali - 4/10
+- C# - 3/10
 - C++ - 3/10
 
 ## ❔ Frameworks / Libraries 
