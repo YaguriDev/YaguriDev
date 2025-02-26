@@ -10,11 +10,29 @@
 
 ## 🔨 Currently working on...
 
-A text-based MMORPG integrated into Telegram Web App, using pixel graphics and custom sprites. Items, classes, quests, bosses, guilds, crafts, NPCs, locations.  
+**FableForge**  
 
-Core technologies: React + Express with MongoDB (mongoose)
+A powerful AI-driven writing platform designed for authors of 18+ fanfiction and novels. Create books, chapters, and stories with ease, using advanced AI tools for auto-completion, tone adjustment, and context-aware suggestions. Features include a timeline for plot development, full creative freedom, and no censorship. Monetization is built around subscriptions and tokens for premium features.  
 
-Type: Private Repository
+**Core technologies**: React + Node.js (Express) with MongoDB (Mongoose)  
+**Type**: Private Repository  
+
+---
+
+**Key Features**:  
+- **AI-Powered Writing**: Auto-complete text, adjust tone, and maintain full context for seamless storytelling.  
+- **Timeline Tool**: Plan and organize plot twists, character arcs, and events with an intuitive timeline.  
+- **No Censorship**: Write freely without restrictions, perfect for mature content creators.  
+- **Monetization**: Subscription tiers and token-based system for premium features.  
+
+**Target Audience**: Writers of 18+ fanfiction, mature novels, and uncensored creative content.  
+
+**Tech Stack**:  
+- Frontend: React  
+- Backend: Node.js (Express)  
+- Database: MongoDB (Mongoose)  
+
+**Status**: Actively in development. Private repository.  
 
 # ❔ Languages
 
