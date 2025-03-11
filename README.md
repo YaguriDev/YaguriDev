@@ -46,6 +46,7 @@ A powerful AI-driven writing platform designed for authors of 18+ fanfiction and
 
 Frontend:
 - React
+- Vue
 - React Query
 - React Hook Form
 - React Popup
